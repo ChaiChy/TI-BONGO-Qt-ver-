@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/image"/>
+    <qresource prefix="/images">
+        <file>BongoImages/bilder/hintergrund.png</file>
+        <file>BongoImages/bilder/Logo1_mH.png</file>
+        <file>BongoImages/bilder/Logo1_oH.png</file>
+        <file>BongoImages/bilder/Logo2_mH.png</file>
+        <file>BongoImages/bilder/Logo2_oH.png</file>
+        <file>BongoImages/bilder/Logo3_mH.png</file>
+        <file>BongoImages/bilder/Logo3_oH.png</file>
+    </qresource>
+</RCC>
